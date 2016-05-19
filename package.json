@@ -1,0 +1,15 @@
+{
+  "name": "i4rugby-website",
+  "version": "1.0.0",
+  "description": "i4rugby website",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guillaume Delafosse <g.delafosse@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4"
+  }
+}
